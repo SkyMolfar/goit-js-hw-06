@@ -34,7 +34,6 @@ function destroyBoxes() {
   boxesContainer.innerHTML = "";
 }
 
-
 createBtn.addEventListener("click", () => {
   const amount = input.value;
   createBoxes(amount);
