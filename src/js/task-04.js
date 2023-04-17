@@ -12,4 +12,3 @@ document.querySelector('button[data-action="increment"]').addEventListener('clic
   valueRef.textContent = counterValue; 
 });
 
-
